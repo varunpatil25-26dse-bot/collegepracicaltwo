@@ -1,2 +1,8 @@
 # collegepracicaltwo
+
 this is repo demonstrates the use of git
+
+
+
+know this line written in notepad on my pc
+
