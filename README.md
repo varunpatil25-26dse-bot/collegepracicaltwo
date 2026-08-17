@@ -4,11 +4,11 @@ this is repo demonstrates the use of git
 
 
 
-VERSON1 RE know this line written in notepad on my pc
+VERSON 1 (RE) know this line written in notepad on my pc
 
 
 
-VERSION 2 of adding new changes to repo
+VERSION 2 (RE) of adding new changes to repo
 
 
 
