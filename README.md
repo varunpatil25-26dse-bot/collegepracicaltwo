@@ -4,7 +4,7 @@ this is repo demonstrates the use of git
 
 
 
-know this line written in notepad on my pc
+VERSON1 RE know this line written in notepad on my pc
 
 
 
@@ -17,4 +17,6 @@ verson 3 of adding changes through branch
 
 
 verson 4 re retry 
+
+verson 4-change made in update2 branch
 
